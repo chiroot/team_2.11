@@ -1,0 +1,32 @@
+Как правильно учиться (научно обосновано)
+
+Активное вспоминание — пытайся вспомнить, а не перечитывать.
+- Улучшает долговременную память [1].
+
+Интервальное повторение — повторяй материал с интервалами.
+- Эффективнее зубрёжки [2].
+
+Перемежающаяся практика — чередуй темы и типы задач.
+- Повышает перенос навыков [3].
+
+Глубокая обработка — связывай новое со знакомым.
+- Усиливает запоминание [4].
+
+Обучай других — объясняй материал вслух.
+- Повышает понимание и удержание информации [5].
+
+Сон и движение — помогают консолидации памяти.
+- Сон укрепляет обучение [6]; физическая активность улучшает когнитивные функции [7].
+
+Фокус без отвлечений — исключи многозадачность.
+- Переключение внимания снижает эффективность [8].
+
+Список литературы:
+[1] Karpicke, J. D., & Roediger, H. L. (2008). The critical importance of retrieval for learning. Science, 319(5865), 966–968. https://doi.org/10.1126/science.1152408
+[2] Cepeda, N. J., et al. (2006). Distributed practice in verbal recall tasks: A review and quantitative synthesis. Psychological Science, 17(11), 1095–1102. https://doi.org/10.1111/j.1467-9280.2006.01737.x
+[3] Rohrer, D., & Taylor, K. (2007). The shuffling of mathematics problems improves learning. Applied Cognitive Psychology, 21(7), 677–688. https://doi.org/10.1002/acp.1343
+[4] Craik, F. I. M., & Lockhart, R. S. (1972). Levels of processing: A framework for memory research. Journal of Verbal Learning and Verbal Behavior, 11(6), 671–684. https://doi.org/10.1016/S0022-5371(72)80001-X
+[5] Fiorella, L., & Mayer, R. E. (2013). The relative benefits of learning by teaching and teaching expectancy. Educational Psychology Review, 25(4), 435–458. https://doi.org/10.1007/s10648-013-9247-2
+[6] Walker, M. P., & Stickgold, R. (2006). Sleep, memory, and plasticity. Annual Review of Psychology, 57, 139–166. https://doi.org/10.1146/annurev.psych.56.091103.070307
+[7] Hillman, C. H., Erickson, K. I., & Kramer, A. F. (2008). Be smart, exercise your heart: Exercise effects on brain and cognition. Nature Reviews Neuroscience, 9, 58–65. https://doi.org/10.1038/nrn2298
+[8] Ophir, E., Nass, C., & Wagner, A. D. (2009). Cognitive control in media multitaskers. Proceedings of the National Academy of Sciences, 106(37), 15583–15587. https://doi.org/10.1073/pnas.0903620106
