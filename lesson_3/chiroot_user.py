@@ -1,4 +1,6 @@
 #курс Лучший по Python. Часть 2, 15.2
+# добавить описание кода
+
 import random
 
 drop = random.randint(1, 8)
