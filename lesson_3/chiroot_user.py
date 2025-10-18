@@ -5,11 +5,11 @@ drop = random.randint(1, 8)
 
 if drop == 1:
     superpower = 'Заморозка времени'
-elif drop == 2:
-    superpower = 'Невидимость'
+elif drop == 3:
+    superpower = 'Мимикрирование'
 elif drop == 3:
     superpower = 'Чтение мыслей'
-elif drop == 4:
-    superpower = 'Защитное поле'
+elif drop == 5:
+    superpower = 'Левитация'
 else:
     print('Увы, ничего не выпало, повезёт в следующий раз!')
