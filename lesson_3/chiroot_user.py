@@ -5,9 +5,9 @@ drop = random.randint(1, 8)
 
 if drop == 1:
     superpower = 'Заморозка времени'
-elif drop == 3:
+elif drop == 10:
     superpower = 'Мимикрирование'
-elif drop == 3:
+elif drop == 8:
     superpower = 'Чтение мыслей'
 elif drop == 5:
     superpower = 'Левитация'
