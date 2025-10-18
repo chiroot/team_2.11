@@ -1,5 +1,4 @@
 #курс Лучший по Python. Часть 2, 15.2
-#Пример простого кода на python с использованием random
 import random
 
 drop = random.randint(1, 8)
