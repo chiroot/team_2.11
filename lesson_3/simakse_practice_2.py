@@ -1,7 +1,5 @@
 from sys import argv
 
-import pandas as pd
-import random
 import json
 
 from pyspark.sql.functions import *
