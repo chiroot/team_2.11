@@ -24,3 +24,5 @@ if len (argv) > 1:
 
 #generate the data
 #list of receipts atributes
+
+#chiroot: Добавить описание к коду
