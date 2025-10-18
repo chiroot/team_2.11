@@ -11,3 +11,5 @@ elif drop == 8:
     superpower = 'Чтение мыслей'
 else:
     print('Увы, ничего не выпало, повезёт в следующий раз!')
+
+print('Try again and repeat')
