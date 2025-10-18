@@ -13,3 +13,5 @@ elif drop == 5:
     superpower = 'Левитация'
 else:
     print('Увы, ничего не выпало, повезёт в следующий раз!')
+
+print ('try again and repeat')
