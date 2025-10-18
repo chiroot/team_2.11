@@ -11,7 +11,5 @@ elif drop == 10:
     superpower = 'Мимикрирование'
 elif drop == 8:
     superpower = 'Чтение мыслей'
-elif drop == 5:
-    superpower = 'Левитация'
 else:
     print('Увы, ничего не выпало, повезёт в следующий раз!')
